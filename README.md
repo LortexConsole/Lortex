@@ -34,7 +34,7 @@ Init/Run/End arrays only includes strings these strings are the commands which a
 
 # Building or installing
 
-You can fork the github page or download it.
+You can fork the github page or download it or downloading a release.
 After downloading the github page go inside and type "npm install".
 After installing all packages do "npm run start".
 And your done.
